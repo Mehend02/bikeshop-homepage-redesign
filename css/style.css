@@ -95,7 +95,7 @@ footer a:hover, footer a:focus {
 @media screen and (max-width:768px) {
     .bg-image {
         background-image: url('../img/gray-bike3.jpg');
-        height: 60vh;
+        height: 40vh;
         background-position: center;
         background-size: cover;
     }
